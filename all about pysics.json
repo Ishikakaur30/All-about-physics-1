@@ -176,5 +176,11 @@
     "application":"https://www.britannica.com/science/Keplers-laws-of-planetary-motion",
     "formula_page":"https://openstax.org/books/university-physics-volume-1/pages/13-5-keplers-laws-of-planetary-motion"
     }
+     {
+     "id": "39",
+    "chapter": "Perihelion Precession Of Mercury",
+    "application":"https://aether.lbl.gov/www/classes/p10/gr/PrecessionperihelionMercury.htm",
+    "formula_page":"https://www.mathpages.com/home/kmath280/kmath280.htm#:~:text=Hence%20the%20ellipse%20precesses%20by,2J%20radians%20per%20revolution."
+    }
 ]  
 
